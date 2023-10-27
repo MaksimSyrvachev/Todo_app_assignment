@@ -18,7 +18,7 @@ The following technologies are used in this application:
 - React Hook Form
 - The corresponding APIs are written using Next.js principles
 
-Run the application with this command: `npm run dev`. After running the application is available at this url: `http://localhost:3000`
+After cloning firstly run command `npm i`, then run the application with this command: `npm run dev`. After running the application is available at this url: `http://localhost:3000`
 
 (CZ)
 Jedná se o jednoduchou todo aplikaci, vyvinutou jako úkol pro společnost MoroSystems. Obsahuje následující funkce:
@@ -40,4 +40,4 @@ V této aplikaci jsou použity následující technologie:
 - React Hook Form
 - Odpovídající API jsou napsány s využitím principů Next.js
 
-Spustit aplikaci přikazem: `npm run dev`. Po spuštění je aplikace k dispozici na tomto url: `http://localhost:3000`
+Po klonování aplikace, spustit zaprve přikaz `npm i`, pak spustit aplikaci přikazem: `npm run dev`. Po spuštění je aplikace k dispozici na tomto url: `http://localhost:3000`
